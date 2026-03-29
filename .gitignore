@@ -1,2 +1,17 @@
-*/graficas
-/Proyecto1-bitcoin-script
+Arbol_de_Hoffman/
+ejercicio-stack/
+hoja-1-uvg-semestre-3/
+hoja-de-trabajo-2/
+hoja-de-trabajo-3/
+hoja-de-trabajo-5/
+hoja-de-trabajo-6/
+prueba/
+graficas/
+
+# Java
+*.class
+*.iml
+
+# IDE
+.idea/
+.vscode/
